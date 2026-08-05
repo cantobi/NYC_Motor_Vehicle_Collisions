@@ -7,6 +7,10 @@
 An interactive, enterprise-grade Power BI dashboard that transforms 75,000 raw city incident logs into a cohesive data story. This project analyzes New York City's 2020 traffic collision data to uncover geographic bottlenecks, behavioral triggers, and time-based risk patterns. It features a fully custom SaaS-style user interface designed to help urban planners and logistics managers drive data-backed safety initiatives.
 
 ---
+**Dashboard Overview**
+![image](https://github.com/cantobi/Retail_Sales-/blob/main/Sales%201.png)
+
+---
 **Tech Stack & Power BI Architecture**
 
 Power Query (ETL): Conducted extensive data cleaning, handled missing values, filtered out data anomalies (ensuring clean data hygiene for NYC's 5 core boroughs), and optimized data types for performance.
