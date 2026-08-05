@@ -1,11 +1,13 @@
 # NYC Motor Vehicle Collisions 2020
-Roadmap to Safety: NYC Traffic Collision Analytics Dashboard
+**Roadmap to Safety: NYC Traffic Collision Analytics Dashboard**
 
--- Description
+--- 
+**Description**
 
 An interactive, enterprise-grade Power BI dashboard that transforms 75,000 raw city incident logs into a cohesive data story. This project analyzes New York City's 2020 traffic collision data to uncover geographic bottlenecks, behavioral triggers, and time-based risk patterns. It features a fully custom SaaS-style user interface designed to help urban planners and logistics managers drive data-backed safety initiatives.
 
--- Tech Stack & Power BI Architecture
+---
+**Tech Stack & Power BI Architecture**
 
 Power Query (ETL): Conducted extensive data cleaning, handled missing values, filtered out data anomalies (ensuring clean data hygiene for NYC's 5 core boroughs), and optimized data types for performance.
 
@@ -17,7 +19,8 @@ UI/UX Design: Implemented a modern, corporate Slate palette (#1E293B) with a per
 
 Custom Visuals: Integrated advanced visual components like an interactive timeline slicer to seamlessly filter multi-month trends.
 
--- Project Goals
+--- 
+**Project Goals**
 
 Bridge Data and Action: Translate overwhelming municipal accident logs into clear, executive-level insights that can influence public safety policy.
 
@@ -25,7 +28,9 @@ Optimize Visual Hierarchy: Demonstrate elite dashboard design principles—balan
 
 Isolate High-Risk Vulnerabilities: Drill down past surface-level metrics to pinpoint exactly who is at risk, where they are at risk, and why.
 
--- Business Questions Answered by This Dashboard
+---
+
+**Business Questions Answered by This Dashboard**
 
 How did the 2020 pandemic affect traffic safety?
 
@@ -44,15 +49,9 @@ What are the primary behavioral drivers behind severe accidents?
 The analysis categorizes the contributing human factors, revealing that "Driver Inattention" dominates total collisions, while "Unsafe Speed" is the leading cause of fatal incidents.
 
 
-Full visuals
+Full interactive visuals
 on power bi data stories 
 
 https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/Roadmap-to-Safety-Analyzing-NYC-Traffic-Collision-Trends-amp-the/m-p/5308347#M16398
 
-raw doc
 
-https://app.fabric.microsoft.com/view?r=eyJrIjoiNTRlNTI3ZDAtZTZkMC00NGRjLWEwOWItY2MwZmUwYTQzODcyIiwidCI6ImY1MTg1YWY3LTQ2YmUtNDRhNS05MDkyLWM4ZWMwZmQ4ZDBhNyJ9
-
-demo
-
-https://github.com/cantobi/Power-Bi-Project-Dashboard/blob/main/Overview%20of%20NYC%20crash.png
