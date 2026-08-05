@@ -8,7 +8,7 @@ An interactive, enterprise-grade Power BI dashboard that transforms 75,000 raw c
 
 ---
 **Dashboard Overview**
-![image](https://github.com/cantobi/Retail_Sales-/blob/main/Sales%201.png)
+![image](https://github.com/cantobi/NYC_Motor_Vehicle_Collisions/blob/main/NYC%20Motor%20Vehicle%20Collisions%202020%20Project/Overview%20of%20NYC%20crash.png)
 
 ---
 **Tech Stack & Power BI Architecture**
