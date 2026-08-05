@@ -48,8 +48,8 @@ What are the primary behavioral drivers behind severe accidents?
 
 The analysis categorizes the contributing human factors, revealing that "Driver Inattention" dominates total collisions, while "Unsafe Speed" is the leading cause of fatal incidents.
 
-
-Full interactive visuals
+---
+**Full interactive visuals**
 on power bi data stories 
 
 https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/Roadmap-to-Safety-Analyzing-NYC-Traffic-Collision-Trends-amp-the/m-p/5308347#M16398
